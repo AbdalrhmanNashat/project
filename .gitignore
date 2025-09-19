@@ -1,0 +1,9 @@
+# Ignore Docker and system files
+*.log
+*.tmp
+*.DS_Store
+node_modules/
+.env
+dist/
+__pycache__/
+.vscode/
